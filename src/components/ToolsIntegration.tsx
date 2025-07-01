@@ -12,7 +12,7 @@ const ToolsIntegration = () => {
   ];
 
   return (
-    <section id="integrations" className="relative flex w-full max-w-[1240px] flex-col items-center mt-[130px] max-md:max-w-full max-md:mt-10">
+    <section id="integrations" className="relative flex w-full max-w-[1240px] flex-col items-center mt-[130px] max-md:max-w-full max-md:mt-10" style={{ transform: 'translateY(-30%)' }}>
       <div className="flex w-[1056px] max-w-full flex-col items-center text-center">
         <h2 className="text-white text-[65px] font-normal leading-[75px] tracking-[-1.3px] max-md:max-w-full max-md:text-[32px] max-md:leading-tight">
           Connect to Your Favorite Tools, Platforms & APIs

@@ -57,7 +57,7 @@ const FAQ = () => {
   };
 
   return (
-    <section id="faq" className="relative flex w-full max-w-[1056px] flex-col items-center mt-[130px] px-4 max-md:max-w-full max-md:mt-10">
+    <section id="faq" className="relative flex w-full max-w-[1056px] flex-col items-center mt-[130px] px-4 max-md:max-w-full max-md:mt-10" style={{ transform: 'translateY(-30%)' }}>
       <div className="flex w-full flex-col items-center text-center mb-[50px]">
         <h2 className="text-white text-[65px] font-normal leading-none tracking-[-1.3px] max-md:max-w-full max-md:text-[32px] max-md:leading-tight">
           Frequently Asked Questions.

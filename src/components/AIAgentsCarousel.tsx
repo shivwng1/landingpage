@@ -61,7 +61,7 @@ const AIAgentsCarousel = () => {
   ];
 
   return (
-    <section id="ai-agents" className="relative z-10 flex pt-20 w-full max-w-[1240px] flex-col items-stretch mx-auto max-md:pt-8">
+    <section id="ai-agents" className="relative z-10 flex pt-8 w-full max-w-[1240px] flex-col items-stretch mx-auto max-md:pt-4" style={{ transform: 'translateY(-35%)' }}>
       <div className="self-center flex w-[1056px] max-w-full flex-col items-stretch text-center">
         <h2 className="text-white text-[65px] font-normal leading-none tracking-[-1.3px] max-md:max-w-full max-md:text-[32px] max-md:leading-tight">
           AI Agent Specialists
