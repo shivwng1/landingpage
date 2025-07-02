@@ -64,15 +64,15 @@ const Header = () => {
           <button className="bg-white flex items-center gap-3 text-base font-normal capitalize leading-loose justify-center px-6 py-2 rounded-[55px] hover:opacity-90 transition-opacity mt-2"
             onClick={() => window.open('https://form.typeform.com/to/xz8hSQfk', '_blank')}
           >
-            <div className="bg-clip-text bg-[linear-gradient(45deg,#0B0C0D_0%,#1C1E21_100%)] font-medium">
-              contact today
-            </div>
-            <div className="w-8 h-8 bg-black rounded-full flex items-center justify-center">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M7 17L17 7M17 7H7M17 7V17" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-            </div>
-          </button>
+          <div className="bg-clip-text bg-[linear-gradient(45deg,#0B0C0D_0%,#1C1E21_100%)] font-medium">
+            contact today
+          </div>
+          <div className="w-8 h-8 bg-black rounded-full flex items-center justify-center">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 17L17 7M17 7H7M17 7V17" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          </div>
+        </button>
         </div>
       </nav>
     </header>

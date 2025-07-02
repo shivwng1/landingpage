@@ -10,7 +10,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className="relative bg-[rgba(255,255,255,0.02)] border w-full flex flex-col items-center mt-20 pt-[76px] pb-[30px] px-4 border-[rgba(255,255,255,0.1)] border-solid max-md:pt-8 max-md:pb-6" style={{ transform: 'translateY(-30%)' }}>
+    <footer className="relative bg-[rgba(255,255,255,0.02)] border w-full flex flex-col items-center mt-20 pt-[76px] pb-[30px] px-4 border-[rgba(255,255,255,0.1)] border-solid max-md:pt-8 max-md:pb-6">
       <div className="mx-auto max-w-[1240px] w-full flex flex-col items-center max-md:px-2">
         <div className="flex items-center gap-5 max-md:flex-col max-md:gap-2">
           <img

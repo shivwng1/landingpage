@@ -32,7 +32,7 @@ const RealTimeOS = () => {
   ];
 
   return (
-    <section id="voice-os" className="relative flex flex-row items-center gap-x-12 justify-center mt-20 max-w-[1240px] mx-auto px-4 max-md:flex-col max-md:gap-x-0 max-md:gap-y-8 max-md:items-stretch" style={{ transform: 'translateY(-30%)' }}>
+    <section id="voice-os" className="relative flex flex-row items-center gap-x-12 justify-center mt-20 max-w-[1240px] mx-auto px-4 max-md:flex-col max-md:gap-x-0 max-md:gap-y-8 max-md:items-stretch max-md:mt-10">
       <div className="flex flex-col justify-center w-[38%] min-w-[340px] max-w-[480px] max-md:w-full max-md:min-w-0 max-md:max-w-full">
         <h2 className="text-white text-[65px] font-normal leading-[75px] tracking-[-1.3px] max-md:max-w-full max-md:text-[32px] max-md:leading-tight">
           Complete Voice OS

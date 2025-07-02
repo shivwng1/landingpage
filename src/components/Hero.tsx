@@ -58,7 +58,7 @@ const Hero = () => {
         <div className="w-6/12 max-md:w-full max-md:mt-4 flex justify-center">
           <img
             src="https://cdn.builder.io/api/v1/image/assets/a779a9e19efc4dadbbc0b4313fcda8ab/b5d424ac7631220a96ee98f3b273bd7d854084ee?placeholderIfAbsent=true"
-            className="aspect-[0.97] object-contain w-full max-w-[350px] max-md:max-w-full max-md:h-auto"
+            className="aspect-[0.97] object-contain w-full max-w-[350px] max-md:max-w-[220px] max-md:h-auto max-md:mt-4 max-md:mb-2"
             alt="Hero illustration"
           />
         </div>
