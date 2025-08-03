@@ -52,7 +52,8 @@ const Footer = () => {
           </div>
           <div className="self-stretch my-auto max-md:text-center">
             <a href="/terms.html" className="underline hover:text-blue-300 transition-colors">Terms & Condition</a> |
-            <a href="/privacy.html" className="underline hover:text-blue-300 transition-colors ml-2">Privacy Policy</a>
+            <a href="/privacy.html" className="underline hover:text-blue-300 transition-colors ml-2">Privacy Policy</a> |
+            <a href="/policies.html" className="underline hover:text-blue-300 transition-colors ml-2">Contact Us</a>
           </div>
         </div>
       </div>
